@@ -11,9 +11,13 @@
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <sched.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/resource.h>
 
 int main(int argc, char* argv[])
 {
+    
 
     return 0;
 }
